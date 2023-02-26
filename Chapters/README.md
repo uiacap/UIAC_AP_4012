@@ -1,3 +1,3 @@
-# You can open the colab program to practice
+# Notes for the Advance Programming Course (Computer Science students)
 
 
